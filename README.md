@@ -6,7 +6,7 @@ Creating a bot in slack using golang that lets a users calculate their age based
 - Slack Installed with a slack account and worspace setup that you are the admin to.
 
 ## Setting up the slack bot environment 
-Replace the strings ```"Replace_with_Bot_token_here"``` and ```"Replace_with_socket_token_here"``` below with your specific tokens.
+In main.go, replace the strings ```"Replace_with_Bot_token_here"``` and ```"Replace_with_socket_token_here"``` below with your specific tokens.
 ```go 
 os.Setenv("SLACK_BOT_TOKEN", "Replace_with_Bot_token_here") // Token from Oauth & Permissions
 ```
