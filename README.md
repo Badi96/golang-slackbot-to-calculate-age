@@ -32,3 +32,6 @@ In this project folder, run in terminal:
 ```go get github.com/shomali11/slacker```
 ```go build```
 ```go run main.go```
+
+## Runing the bot in Slack
+To run the bot in slakc, open the slack application and go to you general channel in your woekspace. Add the bot to your channel (if not alreaady added). To get you age, write for example ```@age-bot my yob is 1996``` and you should get your age as a response. 
