@@ -2,7 +2,7 @@
 Creating a bot in slack using golang that lets a users calculate their age based on year of birth
 
 ## Prerequisites
-- Golang installed 
+- Download and install Go (https://golang.org/dl/)
 - Slack Installed with a slack account and worspace setup that you are the admin to.
 
 ## Setting up the slack bot environment 
